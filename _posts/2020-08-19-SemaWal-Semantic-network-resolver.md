@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SemaWal Semantic network resolver"
-date: 2015-08-03 03:32:44
+date: 2020-08-19 16:57:44
 image: '/assets/img/'
 description: 'SemaWal Is a semantic network resolver developed as a python library. It allows the creation of networks through manual coding or a CSV file. It supports many types of connections between nodes. In addition to extracting knowledge (mainly relations) between two or more nodes in a network, it can find paths between nodes in a given network.'
 tags:
