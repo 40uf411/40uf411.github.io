@@ -1,6 +1,6 @@
 # Site settings
 title: Ali AOUF
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about my personal projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://40uf411.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
