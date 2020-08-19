@@ -1,0 +1,43 @@
+# Site settings
+title: Ali AOUF
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Ali AOUF
+user_description: An enthusiast about data science/Design/Art
+user_title: Problem solver
+email: 40uf4l1@gmail.com
+twitter_username: 40uf411
+github_username:  40uf411
+gplus_username:  40uf411
+disqus_username: 40uf411
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
